@@ -1,0 +1,146 @@
+{
+    "personal": {
+        "name": "Serkan",
+        "surname": "Kayser",
+        "age": 29,
+        "role": "Python Developer",
+        "about": "Passionate about IT industry and able to take advice and suggestions without allowing it to discourage or hinder performance. Collaborative and hardworking team player. I can grasp new concepts and assignments quickly. My objective is to work in a company where I can develop my abilities and grow as a software developer.",
+        "email": "serkankayser@windowslive.com",
+        "linkedin": "https://www.linkedin.com/in/serkan-kayser/",
+        "github": "https://github.com/serkankayser"
+    },
+    "experience": [
+        {
+            "company": "Bitcoin Romania",
+            "position": "Full Stack Developer",
+            "start_date": "11/2020",
+            "end_date": null,
+            "current_job": true,
+            "interacted_technologies": [
+                "Python3",
+                "Django",
+                "Flask",
+                "PostgreSQL",
+                "Microsoft SQL Server",
+                "MySQL",
+                "Linux-Ubuntu",
+                "REST API"
+            ]
+        },
+        {
+            "company": "Atlas Software",
+            "position": "Python Developer",
+            "start_date": "11/2019",
+            "end_date": "11/2020",
+            "current_job": false,
+            "interacted_technologies": [
+                "Python3",
+                "Django",
+                "MySQL",
+                "Docker & Docker-compose",
+                "Linux-Ubuntu",
+                "Git"
+            ]
+        },
+        {
+            "company": "Luxoft",
+            "position": "Software Developer - Internship",
+            "start_date": "06/2019",
+            "end_date": "11/2019",
+            "current_job": false,
+            "interacted_technologies": [
+                "C",
+                "C++",
+                "Networking",
+                "Linux-Ubuntu"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "name": "Step IT Academy",
+            "start_date": "05/2018",
+            "end_date": "05/2019",
+            "courses": [
+                "C",
+                "C++",
+                "SQL",
+                "JavaScript",
+                "HTML",
+                "CSS"
+            ]
+        },
+        {
+            "name": "Technical University of Civil Engineering of Bucharest",
+            "start_date": "10/2013",
+            "end_date": "10/2015"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Payment System with QR Code",
+            "start_date": "05/2022",
+            "end_date": null,
+            "is_finish": false,
+            "url": null,
+            "private": true,
+            "interacted_technologies": [
+                "Python",
+                "Django",
+                "Docker",
+                "Linux-Ubuntu",
+                "Sendgrid(API for mail)"
+            ]
+        },
+        {
+            "name": "Stock Management Project",
+            "start_date": "04/2022",
+            "end_date": null,
+            "is_finish": false,
+            "url": "https://github.com/serkankayser/Stock-Management",
+            "private": false,
+            "interacted_technologies": [
+                "Python",
+                "Django",
+                "Docker",
+                "Linux-Ubuntu"
+            ]
+        },
+        {
+            "name": "Streaming Service",
+            "start_date": "12/2021",
+            "end_date": "01/2022",
+            "is_finish": true,
+            "url": "https://github.com/serkankayser/StreamingService",
+            "private": false,
+            "interacted_technologies": [
+                "Python",
+                "Django",
+                "Docker",
+                "Linux-Ubuntu"
+            ]
+        }
+    ],
+    "tech_skills": [
+        "Python",
+        "Django",
+        "Flask",
+        "REST API",
+        "Docker",
+        "SQL"
+    ],
+    "personal_skills": [
+        "Patience",
+        "Focus",
+        "Open mind",
+        "Attentive to details",
+        "Desire to learn",
+        "Curiosity",
+        "Responsibility"
+    ],
+    "languages": {
+        "English": "3/5",
+        "Romanian": "5/5",
+        "Turkish": "5/5"
+    }
+}
